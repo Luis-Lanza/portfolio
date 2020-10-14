@@ -16,3 +16,5 @@ ___
 # Licenses 
 
 ___
+
+Study README.md Structure at [this link](https://dev.to/emmabostian/how-to-build-a-great-technical-portfolio-53bb, "Repo regarding Best Practices")
